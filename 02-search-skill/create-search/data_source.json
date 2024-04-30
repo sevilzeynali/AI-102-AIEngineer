@@ -1,0 +1,9 @@
+{   
+    "name" : "margies-custom-data",  
+    "description" : "Documents for search.",  
+    "type" : "azureblob",
+    "credentials" :
+    { "connectionString" : "https://secastock.z16.web.core.windows.net/"
+    },  
+    "container" : { "name" : "margies" }
+} 
